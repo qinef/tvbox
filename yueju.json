@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/qinef/tvbox/blob/main/yueju.json"
+      "ext": "https://github.com/qinef/tvbox/raw/main/yueju.json"
     },
     {
       "key": "push_agent",
@@ -21,5 +21,5 @@
     }
   ],
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-  "spider": "https://github.com/qinef/tvbox/blob/main/custom_spider.jar;md5;99bca2e2b055d2f1716801be70ab624c"
+  "spider": "https://github.com/qinef/tvbox/raw/main/custom_spider.jar;md5;99bca2e2b055d2f1716801be70ab624c"
 }
