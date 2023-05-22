@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/qinef/tvbox/blob/main/yueju.json"
+      "ext": "https://raw.githubusercontent.com/qinef/tvbox/main/yueju.json"
     },
     {
       "key": "push_agent",
