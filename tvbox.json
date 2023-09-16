@@ -1,6 +1,6 @@
 {
   "spider": "./custom_spider.jar;md5;211cb09b88752dd0d56201b84b0b3e47",
-  "wallpaper": "https://饭太硬.ga/深色壁纸/7.jpg",
+  "wallpaper": "https://饭太硬.top/深色壁纸/7.jpg",
   "sites": [
     {
       "key": "哔哩",
@@ -10,7 +10,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "json": "https://jihulab.com/gzk/tvbox/-/raw/main/yueju.json",
+        "json": "https://github.com/qinef/tvbox/blob/main/yueju.json",
         "type": "越剧",
         "cookie": "buvid3=16332BA7-9BC6-FD1B-EEC3-859D147BA73F72975infoc; i-wanna-go-back=-1; _uuid=7FE6F164-1BF5-95D7-B31C-B245D1BCD3B672659infoc; FEED_LIVE_VERSION=V8; buvid_fp=c843b16d23d773068a41565d4c506496; home_feed_column=4; buvid4=BA29EBD7-2B32-2DF4-A10C-C2EE86D4AEAC75078-023052222-zZSZhRISSyj4nwTFZwcoEg%3D%3D; b_nut=1684766675; header_theme_version=CLOSE; bsource=search_google; CURRENT_FNVAL=4048; innersign=0; SESSDATA=13efc517%2C1700577613%2Cfcea6%2A52; bili_jct=272ef2be34e676f7cf6339c17dcb7bb5; DedeUserID=284097455; DedeUserID__ckMd5=e652501280a8dfd1; sid=6w4xdsp6; browser_resolution=1100-2085; b_ut=5; b_lsid=10D95E7610_18855A760EB"
       }
